@@ -1,24 +1,5 @@
-# README
+# LEIA-ME
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+API DE CADASTRO DE ALUNOS EM RUBY ON RAILS
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Projeto da disciplina Desenvolvimento do Projeto Integrador II no Curso Técnico Subsequente em Informática para Internet.
